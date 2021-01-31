@@ -16,6 +16,7 @@
 *.gpg       binary
 *.gz        binary
 *.jpg       binary
+
 *.png       binary
 *.tar       binary
 *.tar.*     binary
